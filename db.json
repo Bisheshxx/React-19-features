@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "firstName": "Bishesh",
+    "LastName": "Tuladhar",
+    "email": "Bisheshx@gmail.com",
+    "phone": "9813033635",
+    "address": "Nayabazaar"
+  },
+  "todo": [
+    {
+      "id": "1",
+      "task": "Learn React 19",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "task": "Install Tailwind",
+      "completed": true
+    },
+    {
+      "id": "lp16mxsnn1711701922269",
+      "task": "slow flickering",
+      "completed": false
+    },
+    {
+      "id": "1llutz7ts1711701988981",
+      "task": "slow flickering h3",
+      "completed": false
+    },
+    {
+      "id": "vycoe3gi61711702001165",
+      "task": "slow flickering mew",
+      "completed": false
+    },
+    {
+      "id": "i6kad3ej41711702054562",
+      "task": "fix",
+      "completed": false
+    },
+    {
+      "id": "0zndr9y0w1711702061512",
+      "task": "fix2",
+      "completed": false
+    },
+    {
+      "id": "nsambbemk1711702264226",
+      "task": "no flickering",
+      "completed": false
+    },
+    {
+      "id": "g17bi0m2k1711702374199",
+      "task": "synchronize",
+      "completed": false
+    },
+    {
+      "id": "et6ad42jr1711711066292",
+      "task": "testing the optimistic",
+      "completed": false
+    },
+    {
+      "id": "vieb0p2dp1711711494337",
+      "task": "test",
+      "completed": false
+    },
+    {
+      "id": "qqw3bgv2d1711711501967",
+      "task": "testing newwww",
+      "completed": false
+    },
+    {
+      "id": "vm83xb91z1711711551357",
+      "task": "testing latest",
+      "completed": false
+    },
+    {
+      "id": "tqeqcw74w1711711567294",
+      "task": "messy",
+      "completed": false
+    }
+  ]
+}
